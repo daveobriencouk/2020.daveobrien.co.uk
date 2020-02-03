@@ -2,6 +2,8 @@
 
 My website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I've clobbered somewhat of a placeholder. Will revisit in the week to make better.
 
+Leaving this here, deploying via Netlify...
+
 ## Available Scripts
 
 In the project directory, you can run:
