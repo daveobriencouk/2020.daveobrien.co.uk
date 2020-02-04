@@ -18,6 +18,10 @@
   margin-right: 18.25%;
 }
 
+.content a {
+  color: inherit;
+}
+
 @media screen and (min-width: 520px) {
   .content {
     font-size: 16px;
